@@ -1,0 +1,22 @@
+html{
+  font-size: 62.5%;
+}
+
+
+body {
+  margin: 0;
+  font: 300 11px/1.4 'helvetica Neue', 'sans-serif';
+  /* color:#444; */
+  background-image: linear-gradient(to bottom right, blue,aqua);
+
+  /* background-color:#1C58C7; */
+  overflow: hidden;
+  display: block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */

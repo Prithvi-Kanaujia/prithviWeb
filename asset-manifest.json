@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/prithviWeb/static/css/main.97260c8f.css",
+    "main.css": "/prithviWeb/static/css/main.48cbd43d.css",
     "main.js": "/prithviWeb/static/js/main.b84d4340.js",
     "static/js/787.59cbc5c6.chunk.js": "/prithviWeb/static/js/787.59cbc5c6.chunk.js",
     "static/media/Screenshot 2024-03-19 at 18.05.57.png": "/prithviWeb/static/media/Screenshot 2024-03-19 at 18.05.57.4a291f019a8f2f11b331.png",
@@ -18,12 +18,12 @@
     "static/media/logo-s.png": "/prithviWeb/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/CoolveticaRg-Regular.woff2": "/prithviWeb/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/prithviWeb/index.html",
-    "main.97260c8f.css.map": "/prithviWeb/static/css/main.97260c8f.css.map",
+    "main.48cbd43d.css.map": "/prithviWeb/static/css/main.48cbd43d.css.map",
     "main.b84d4340.js.map": "/prithviWeb/static/js/main.b84d4340.js.map",
     "787.59cbc5c6.chunk.js.map": "/prithviWeb/static/js/787.59cbc5c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97260c8f.css",
+    "static/css/main.48cbd43d.css",
     "static/js/main.b84d4340.js"
   ]
 }

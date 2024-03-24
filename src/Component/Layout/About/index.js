@@ -15,11 +15,6 @@ import scrabble from '../../../assets/images/scrabble.png'
 import prithvi1 from '../../../assets/images/prithvi1.jpeg'
 import Cards from '../Cards/Crads.js'
 
-
-
-
-
-
 const About = () => {
     const cardData = [
         { title: 'geo Guessr bot', link:'https://colab.research.google.com/drive/16cJVO3VI1aOiLiN3aA3XCjYPSMFzmPPy?usp=sharing' , imageUrl: gg, body: '• Used machine learning to create a model that can predict the location of a Google street view image from the game GeoGuessr.• Trained the model using 900,000 images around the world sourced from Google’s street view API and Mapillary. • Used Convolutional Neural Networks (CNN) to stride over parts of each image and train the model. ' },

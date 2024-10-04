@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/prithviWeb/static/css/main.48cbd43d.css",
-    "main.js": "/prithviWeb/static/js/main.d8aa16df.js",
+    "main.css": "/prithviWeb/static/css/main.6beb884e.css",
+    "main.js": "/prithviWeb/static/js/main.af4cf70d.js",
     "static/js/787.59cbc5c6.chunk.js": "/prithviWeb/static/js/787.59cbc5c6.chunk.js",
-    "static/media/Screenshot 2024-03-19 at 18.05.57.png": "/prithviWeb/static/media/Screenshot 2024-03-19 at 18.05.57.4a291f019a8f2f11b331.png",
+    "static/media/spotify.png": "/prithviWeb/static/media/spotify.7e7f7a0227d26d94f830.png",
     "static/media/manne.png": "/prithviWeb/static/media/manne.32d3d5bd4bac1cb48ca6.png",
     "static/media/gg.jpg": "/prithviWeb/static/media/gg.d46cdc38d0e39448917a.jpg",
     "static/media/shark.png": "/prithviWeb/static/media/shark.59ef06006b1fdfa5560d.png",
@@ -13,17 +13,15 @@
     "static/media/scrabble.png": "/prithviWeb/static/media/scrabble.427b3f100e654cb88325.png",
     "static/media/umass.webp": "/prithviWeb/static/media/umass.9919a4359e7689f36ddf.webp",
     "static/media/helvetica-neu.ttf": "/prithviWeb/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo_sub.png": "/prithviWeb/static/media/logo_sub.19f3ab25ab15fd848b30.png",
     "static/media/LaBelleAurore.woff2": "/prithviWeb/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/prithviWeb/static/media/logo-s.bfc9f81846bda5218dab.png",
     "static/media/CoolveticaRg-Regular.woff2": "/prithviWeb/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/prithviWeb/index.html",
-    "main.48cbd43d.css.map": "/prithviWeb/static/css/main.48cbd43d.css.map",
-    "main.d8aa16df.js.map": "/prithviWeb/static/js/main.d8aa16df.js.map",
+    "main.6beb884e.css.map": "/prithviWeb/static/css/main.6beb884e.css.map",
+    "main.af4cf70d.js.map": "/prithviWeb/static/js/main.af4cf70d.js.map",
     "787.59cbc5c6.chunk.js.map": "/prithviWeb/static/js/787.59cbc5c6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48cbd43d.css",
-    "static/js/main.d8aa16df.js"
+    "static/css/main.6beb884e.css",
+    "static/js/main.af4cf70d.js"
   ]
 }
